@@ -193,8 +193,10 @@ body{
 
 h1{
 
-    margin-left: 657px;
-    margin-top: 50px;
+    color: rgb(108, 211, 11);
+    width: 100%;
+    text-align: center;
+    margin-top: 20px;
 
 }
 
